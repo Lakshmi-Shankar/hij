@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(50, 48, 48);
+}
+#mp{
+    margin-bottom: 90px;
+    padding-left: 200px;
+    float: left;
+    padding-right: 200px;
+}
+#hh{
+    color: whitesmoke;
+    margin-left: 300px;
+}
+.d{
+    margin-top: 40px;
+    color: aliceblue;  
+}
+.n{
+    margin-top: 40px;
+    color: aliceblue;
+    float: inline-start;
+}
+#footer{
+    float: inline-start;
+    
+}
+#f{
+    box-sizing: content-box;
+    background-color: rgb(20, 20, 20);
+    margin-top: 330px;
+}
+#sl{
+    margin-left: -300px;
+    width: 180px;
+    background-color: black;
+
+}
+#gm{
+    color: white;
+    padding-left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Likedsongs2{
+    background-color: rgb(75, 77, 79);
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+#h2{
+    width: 60px;
+    padding-top: 20px;
+}
+#Likedsongs{
+    background-color: rgb(75, 77, 79);
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+#h{
+    width: 60px;
+    padding-top: 20px;
+    
+    
+}
+#options{
+    padding-left: 300px;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+}
+#header{
+    padding-left: 300px;
+
+}
+#arrow{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#User{
+    padding-left: 1000px;
+    margin-bottom: 25px;
+}
